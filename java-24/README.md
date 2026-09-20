@@ -12,7 +12,7 @@ To run each example use: `java --enable-preview --source 24 <FileName.java>`
 * [479](https://openjdk.org/jeps/479) - Remove the Windows 32-bit x86 Port
 * [483](https://openjdk.org/jeps/483) - Ahead-of-Time Class Loading & Linking
 * [484](https://openjdk.org/jeps/484) - Class-File API
-* [485](https://openjdk.org/jeps/485) - Steam Gatherers
+* [485](https://openjdk.org/jeps/485) - Stream Gatherers
 * [486](https://openjdk.org/jeps/486) - Permanently Disable the Security Manager
 * [487](https://openjdk.org/jeps/487) - Scoped Values (Fourth Preview)
 * [488](https://openjdk.org/jeps/488) - Primitive Types in Patterns, instanceof, and switch (Second Preview)
